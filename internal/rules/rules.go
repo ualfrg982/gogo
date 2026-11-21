@@ -20,3 +20,7 @@ func NewBoard(size int) *Board {
 	}
 	return &Board{Size: size, Grid: grid}
 }
+
+//comprobar hueco
+//comprobar condición...
+//comprobar victoria
